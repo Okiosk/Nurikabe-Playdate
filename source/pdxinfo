@@ -1,0 +1,7 @@
+name=Nurikabe
+author=Victor Ouzaud
+description=Le casse-tete Nurikabe : noircissez la mer, laissez les iles.
+bundleID=com.victorouzaud.nurikabe
+version=1.0
+buildNumber=1
+imagePath=launcher

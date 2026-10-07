@@ -1,0 +1,23 @@
+# Jeu compile (genere par pdc / lancer.bat)
+*.pdx/
+*.pdx
+
+# Dossiers crees par le simulateur Playdate quand il est lance depuis ce dossier
+/Data/
+/Games/
+/Screenshots/
+.sentry-native/
+
+# Python (outils de generation)
+__pycache__/
+*.py[cod]
+*.partial
+outils/clingo-src/
+
+# Systeme / editeurs
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
